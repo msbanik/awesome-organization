@@ -3,12 +3,13 @@ Listing of awesome organization's github repository.
 
 ##### Names
 ---
+
 [Apache](https://github.com/apache)  
 [Amazon](https://github.com/amzn)  
 [Baidu](https://github.com/baidu)  
 [Docker](https://github.com/Docker)  
 [Evernote](https://github.com/Evernote)  
-[eBay](https://github.com/ebay)
+[eBay](https://github.com/ebay)  
 [Airbnb](https://github.com/airbnb)  
 [Dropbox](https://github.com/dropbox)  
 [Facebook](https://github.com/facebook)  
